@@ -49,7 +49,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/soham/godfather-xmd.git
+git clone https://github.com/nxtdevil007-code/GODFATHER-XMD-.git
 
 # Enter directory
 cd godfather-xmd
