@@ -1,0 +1,36 @@
+{
+  "name": "godfather-xmd",
+  "version": "3.0.0",
+  "description": "GODFATHER XMD - Multi-Device WhatsApp Bot by Soham",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pair": "node pair-code.js",
+    "session": "node session.js"
+  },
+  "keywords": ["whatsapp-bot", "godfather-xmd", "soham", "baileys", "md-bot"],
+  "author": "Soham",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.16.0",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1",
+    "axios": "^1.6.0",
+    "jimp": "^0.22.10",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-webpmux": "^3.1.7",
+    "file-type": "^16.5.4",
+    "got": "^11.8.6",
+    "cheerio": "^1.0.0-rc.12",
+    "ytdl-core": "^4.11.5",
+    "yt-search": "^2.10.4",
+    "google-it": "^1.6.4",
+    "moment-timezone": "^0.5.43",
+    "speed-test": "^2.1.0",
+    "node-fetch": "^2.7.0",
+    "crypto": "^1.0.1",
+    "perf_hooks": "^0.0.1"
+  }
+}
